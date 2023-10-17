@@ -38,16 +38,16 @@ Welcome to the Coffee Shop Program! This Python application simulates a coffee s
    cd coffee-shop-program
 
 # USAGE
-## 1. Run the program following the installation instructions.
+1. Run the program following the installation instructions.
 
-## 2. Choose a coffee drink (Espresso, Latte, or Cappuccino) when prompted.
+2. Choose a coffee drink (Espresso, Latte, or Cappuccino) when prompted.
 
-## 3. If you want to check the current resource status, type "report" when prompted.
+3. If you want to check the current resource status, type "report" when prompted.
 
-## 4. To turn off the program, type "off" when prompted.
+4. To turn off the program, type "off" when prompted.
 
-## 5. Follow the on-screen instructions to insert coins to pay for your coffee.
+5. Follow the on-screen instructions to insert coins to pay for your coffee.
 
-## 6. The program will dispense the coffee if the payment is sufficient and return any change.
+6. The program will dispense the coffee if the payment is sufficient and return any change.
 
 
